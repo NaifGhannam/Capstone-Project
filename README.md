@@ -21,7 +21,7 @@ This Streamlit application is designed to detect faces and estimate ages from vi
 * Streamlit
 * OpenCV
 * Torch
-*NumPy
+* NumPy
 * scikit-image
 * pygame
 * playsound
