@@ -32,7 +32,7 @@ This Streamlit application is designed to detect faces and estimate ages from vi
 * Upload the video file for the enter gate and exit gate.
 * The app will process the videos and display results based on the detected faces and estimated ages.
 ### View Results:
-* The app will display:
+The app will display:
  * The processed frames with detected faces.
  * Comparison of face images between entering and exiting videos.
  * Alerts if a potential abduction is detected.
